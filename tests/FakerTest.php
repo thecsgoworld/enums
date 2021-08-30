@@ -19,5 +19,8 @@ class FakerTest extends TestCase {
 		$this->assertIsInt($generator->itemQuality);
 		$this->assertIsInt($generator->itemType);
 		$this->assertIsInt($generator->jackpotType);
+		$this->assertIsInt($generator->caseBattleStatus);
+		$this->assertIsInt($generator->caseBattleType);
+		$this->assertIsInt($generator->coinFlipType);
 	}
 }

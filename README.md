@@ -28,3 +28,6 @@ composer require thecsgoworld/enums
 - `\TheCSGOWorld\Enums\Item\ItemQuality` - itemQuality
 - `\TheCSGOWorld\Enums\Item\ItemType` - itemType
 - `\TheCSGOWorld\Enums\Jackpot\JackpotType` - jackpotType
+- `\TheCSGOWorld\Enums\CaseBattle\CaseBattleStatus` - caseBattleStatus
+- `\TheCSGOWorld\Enums\CaseBattle\CaseBattleType` - caseBattleType
+- `\TheCSGOWorld\Enums\CoinFlip\CoinFlipType` - coinFlipType
