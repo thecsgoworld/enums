@@ -1,6 +1,6 @@
 <?php
 
-namespace TheCSGOWorld\Enums;
+namespace TheCSGOWorld\Enums\User;
 
 final class FriendStatus {
 	public const REQUESTED = 0;
