@@ -11,12 +11,6 @@ final class ItemQuality {
 	public const CLASSIFIED = 5;
 	public const COVERT = 6;
 
-	// all qualities for character skins
-	public const DISTINGUISHED = self::MIL_SPEC_GRADE;
-	public const EXCEPTIONAL = self::RESTRICTED;
-	public const SUPERIOR = self::CLASSIFIED;
-	public const MASTER = self::COVERT;
-
 	// all qualities for stickers, pins, graffiti, ...
 	public const BASE_GRADE = self::CONSUMER_GRADE;
 	public const HIGH_GRADE = self::MIL_SPEC_GRADE;
