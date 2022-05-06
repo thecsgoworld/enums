@@ -11,6 +11,8 @@ final class ItemQuality {
 	public const CLASSIFIED = 5;
 	public const COVERT = 6;
 
+	public const KNIFE = 255; // this is a temporarily variable for case opening, it's not a production value
+
 	// all qualities for stickers, pins, graffiti, ...
 	public const BASE_GRADE = self::CONSUMER_GRADE;
 	public const HIGH_GRADE = self::MIL_SPEC_GRADE;
