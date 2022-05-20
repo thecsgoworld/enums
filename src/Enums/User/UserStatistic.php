@@ -21,15 +21,16 @@ final class UserStatistic {
 	public const PRIVATE_RANK_RESETS = 'private_rank_resets';
 
 	// coin flip
+	public const COIN_FLIP_PLAYS = 'coin_flip_plays';
 	public const COIN_FLIP_WINS = 'coin_flip_wins';
 
 	// case battle
+	public const CASE_BATTLE_PLAYS = 'case_battle_plays';
 	public const CASE_BATTLE_WINS = 'case_battle_wins';
 
 	// jackpot
-	public const JACKPOT_WINS = 'jackpot_wins';
-	public const JACKPOT_LOST = 'jackpot_lost';
 	public const JACKPOT_PLAYS = 'jackpot_plays';
+	public const JACKPOT_WINS = 'jackpot_wins';
 	public const JACKPOT_PROFIT = 'jackpot_profit';
 	public const JACKPOT_LOSS = 'jackpot_loss';
 }
